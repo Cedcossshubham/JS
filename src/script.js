@@ -192,3 +192,7 @@ console.log(myStr7);
 //strint index
 const thirdLetterOfLastName = lastName[2];
 console.log(thirdLetterOfLastName);
+
+//last letter of string
+const lastLetterOfLastName1 = lastName[lastName.length -1];
+console.log(lastLetterOfLastName1);
