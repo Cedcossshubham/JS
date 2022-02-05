@@ -188,3 +188,7 @@ console.log(firstLetterOfLastName);
 let myStr7 = "Jello World";
 myStr7 = "Hello World"; 
 console.log(myStr7);
+
+//strint index
+const thirdLetterOfLastName = lastName[2];
+console.log(thirdLetterOfLastName);
