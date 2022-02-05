@@ -399,3 +399,12 @@ function nextInLine(arr, item) {
   console.log("Before: " + JSON.stringify(testArr));
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
+
+
+  //boolean 
+  function welcomeToBooleans() {
+      
+    return true; 
+  }
+
+  console.log(welcomeToBooleans());
