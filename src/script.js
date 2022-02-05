@@ -5,8 +5,8 @@ this is a multiline comment
 
 var myName;  //variable created my name
 
-// Setup
-var a;
+
+var a = 7;  // define a variable with val 7
 var b;
 
 // assign value to var a
