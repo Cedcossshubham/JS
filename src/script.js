@@ -565,3 +565,23 @@ function nextInLine(arr, item) {
   }
   
   console.log(testLogicalOr(15));
+
+
+//Introducing Else Statements
+  function testElse(val) {
+    let result = "";
+    
+  
+    if (val > 5) {
+      result = "Bigger than 5";
+    }
+  
+    else {
+      result = "5 or Smaller";
+    }
+  
+ 
+    return result;
+  }
+  
+ console.log( testElse(4));
