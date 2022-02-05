@@ -80,3 +80,7 @@ console.log(myVar);
 //use of decrement operator
 myVar--;
 console.log(myVar);
+
+//declare a decimal variable
+const myDecimal = 5.7;
+console.log(myDecimal);
