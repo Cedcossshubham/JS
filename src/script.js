@@ -232,3 +232,17 @@ const myArray2 = [18, 64, 99];
 myArray2[0] = 45;
 
 console.log(myArray2);
+
+
+//multidimension array
+const myArray3 = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  
+  const myData1 = myArray3[2][1];
+ console.log(myData1);
+
+
