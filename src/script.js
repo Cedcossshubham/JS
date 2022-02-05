@@ -280,3 +280,11 @@ function reusableFunction(){
   }
   
   reusableFunction();
+
+  //function with args
+  function functionWithArgs(a,b) {
+    console.log(Number(a)+Number(b));
+  }
+  
+  functionWithArgs(1,3);
+  functionWithArgs(7,9);
