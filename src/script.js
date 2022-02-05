@@ -23,14 +23,14 @@ var myLastName = "Doe";
 
 
 //change  the value of var
-var a = 5;
-var b = 10;
-var c = "I am a";
+var a1 = 5;
+var b1 = 10;
+var c1 = "I am a";
 
 
-a = a + 1;
-b = b + 5;
-c = c + " String!";
+a1 = a1 + 1;
+b1 = b1 + 5;
+c1 = c1 + " String!";
 
 //change the variable name to camleCase
 var studlyCapVar;
@@ -99,9 +99,22 @@ const remainder = 11 % 3;
 console.log(remainder);
 
 //assignment operator
+let a = 11;
+let b = 9;
+let c = 3;
+
 a += 12;
 b += 9 ;
 c += 7;
+
+console.log(a);
+console.log(b);
+console.log(c);
+
+//Compound Assignment With Augmented Subtraction
+a -= 6;
+b -= 15;
+c -= 1;
 
 console.log(a);
 console.log(b);
