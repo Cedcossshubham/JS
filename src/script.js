@@ -2,3 +2,5 @@
 /* 
 this is a multiline comment
 */
+
+var myName;  //variable created my name
