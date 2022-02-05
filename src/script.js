@@ -76,3 +76,7 @@ console.log(quotient);
 let myVar = 87;
 myVar++;
 console.log(myVar);
+
+//use of decrement operator
+myVar--;
+console.log(myVar);
