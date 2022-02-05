@@ -158,3 +158,9 @@ console.log(myStr3);
 let myStr4 ="This is the first sentence.";
 myStr4 += " This is the second sentence.";
 console.log(myStr4); 
+
+
+//Constructing Strings with Variables
+const myName1 = "Hello";
+const myStr5 = "world" + myName1 + "bye";
+console.log(myStr5);
