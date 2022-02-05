@@ -153,3 +153,8 @@ console.log(myStr2);
 //Concatenation operator in String
 const myStr3 = "This is the start."+" This is the end.";
 console.log(myStr3); 
+
+//Concatenating Strings with the Plus Equals Operator
+let myStr4 ="This is the first sentence.";
+myStr4 += " This is the second sentence.";
+console.log(myStr4); 
