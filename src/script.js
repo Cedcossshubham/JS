@@ -442,3 +442,25 @@ function nextInLine(arr, item) {
   }
   
   console.log(testStrict(10));
+
+//Practice comparing different values
+
+  function compareEquality(a, b) {
+    if (a === b) { 
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  
+  console.log(compareEquality(10, "10"));
+
+
+//Comparison with the Inequality Operator
+  function testNotEqual(val) {
+    if (val!=99) { 
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  
+  console.log(testNotEqual(10));
