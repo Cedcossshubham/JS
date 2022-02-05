@@ -536,3 +536,18 @@ function nextInLine(arr, item) {
   }
   
  console.log(testLessOrEqual(10));
+
+//Comparisons with the Logical And Operator
+
+ function testLogicalAnd(val) {
+ 
+    if (val>=25 &&  val <=50) {
+      
+        return "Yes";
+      
+    }
+  
+    return "No";
+  }
+  
+  console.log(testLogicalAnd(10));
