@@ -119,3 +119,13 @@ c -= 1;
 console.log(a);
 console.log(b);
 console.log(c);
+
+//Compound Assignment With Augmented Multiplication
+
+a *= 5;
+b *= 3;
+c *= 10;
+
+console.log(a);
+console.log(b);
+console.log(c);
