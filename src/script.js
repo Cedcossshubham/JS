@@ -551,3 +551,17 @@ function nextInLine(arr, item) {
   }
   
   console.log(testLogicalAnd(10));
+
+//Comparisons with the Logical Or Operator
+  function testLogicalOr(val) {
+
+  
+    if (val<=9 || val>20) {
+      return "Outside";
+    }
+  
+  
+    return "Inside";
+  }
+  
+  console.log(testLogicalOr(15));
