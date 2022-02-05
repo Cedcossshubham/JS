@@ -367,3 +367,15 @@ function addFive(){
 
 addFive(3);
 addThree(5);
+
+
+//Assignment with a Returned Value
+let processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+processed = processArg(7);
+
+console.log(processed);
