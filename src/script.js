@@ -149,3 +149,7 @@ console.log(myStr1);
 //Escape Sequences in Strings
 const myStr2 = "FirstLine\n\t\\SecondLine\nThirdLine"; 
 console.log(myStr2);
+
+//Concatenation operator in String
+const myStr3 = "This is the start."+" This is the end.";
+console.log(myStr3); 
