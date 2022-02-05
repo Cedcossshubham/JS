@@ -270,3 +270,8 @@ myArray5.unshift(["Paul", 35]);
 console.log(myArray5);
 
 
+//shopping list
+const myList3 = [["chocolate",15],["cold drink",3],["coffee",1],["snacks",4],["bottle",2]];
+console.log(myList3);
+
+
