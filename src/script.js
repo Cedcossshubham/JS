@@ -88,3 +88,8 @@ console.log(myDecimal);
 //decimal multiply
 const product = 2.0 * 2.5;
 console.log(product);
+
+//decimal division
+const quotient = 4.4 / 2.0;
+console.log(quotient);
+
