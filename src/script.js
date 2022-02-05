@@ -252,5 +252,9 @@ const myArray3 = [
 myArray4.push(["dog",3]);
 console.log(myArray4);
 
+//use pop()
+const removedFromMyArray =myArray4.pop();
+console.log(removedFromMyArray);
+
 
 
