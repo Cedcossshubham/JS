@@ -212,7 +212,12 @@ const wordBlanks = myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb; // Change thi
 console.log(wordBlanks);
 
 
-//String array
+// array
 const myArray = ["hello",5];
 
 console.log(myArray);
+
+
+//nested array
+const myArray1 = [["one","two"]];
+console.log(myArray1);
