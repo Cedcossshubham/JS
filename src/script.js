@@ -226,3 +226,9 @@ console.log(myArray1);
 //first value of an array
 let myData = myArray[0];
 console.log(myData);
+
+//modify array
+const myArray2 = [18, 64, 99];
+myArray2[0] = 45;
+
+console.log(myArray2);
