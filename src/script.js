@@ -65,12 +65,12 @@ console.log(difference);
 
 
 //multiply two numbers
-const product = 8 * 10;
-console.log(product);
+const product1 = 8 * 10;
+console.log(product1);
 
 //divide two numbers
-const quotient = 66 / 33;
-console.log(quotient);
+const quotient1 = 66 / 33;
+console.log(quotient1);
 
 //use of increment operator
 let myVar = 87;
@@ -89,7 +89,12 @@ console.log(myDecimal);
 const product = 2.0 * 2.5;
 console.log(product);
 
+
 //decimal division
 const quotient = 4.4 / 2.0;
 console.log(quotient);
+
+//mod operator
+const remainder = 11 % 3;
+console.log(remainder);
 
