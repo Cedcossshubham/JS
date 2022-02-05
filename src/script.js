@@ -164,3 +164,11 @@ console.log(myStr4);
 const myName1 = "Hello";
 const myStr5 = "world" + myName1 + "bye";
 console.log(myStr5);
+
+//use of add equal operator
+const someAdjective = "Awesome";
+let myStr6 = "Learning to code is ";
+
+myStr6 += someAdjective;
+
+console.log(myStr6);
