@@ -261,4 +261,12 @@ removedFromMyArray = myArray4.shift();
 console.log(removedFromMyArray)
 
 
+//use unshift()
+const myArray5 = [["John", 23], ["dog", 3]];
+myArray5.shift();
+
+// Only change code below this line
+myArray5.unshift(["Paul", 35]);
+console.log(myArray5);
+
 
