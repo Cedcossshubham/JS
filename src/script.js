@@ -137,3 +137,7 @@ c /= 11;
 console.log(a);
 console.log(b);
 console.log(c);
+
+//use of escaper letter
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
+console.log(myStr);
