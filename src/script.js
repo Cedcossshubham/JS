@@ -55,15 +55,19 @@ fact = "is awesome!";
 console.log(FCC, fact); // Change this line
 
 
-//add two number
+//add two numbers
 const sum = 10 + 10;
 console.log(sum);
 
-//subtract two number
+//subtract two numbers
 const difference = 45 - 33;
 console.log(difference);
 
 
-//multiply two number
+//multiply two numbers
 const product = 8 * 10;
 console.log(product);
+
+//divide two numbers
+const quotient = 66 / 33;
+console.log(quotient);
