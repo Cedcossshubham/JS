@@ -177,3 +177,9 @@ const lastName = "Lovelace";
 
 lastNameLength = lastName.length;
 console.log(lastNameLength);
+
+
+//use bracket notaion of string
+let firstLetterOfLastName = "";
+firstLetterOfLastName = lastName[0];
+console.log(firstLetterOfLastName);
