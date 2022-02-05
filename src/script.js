@@ -323,3 +323,14 @@ function fun2() {
 
 fun1();
 fun2();
+
+//local scope in function
+function myLocalScope() {
+   
+    const myVar=0;
+  
+    console.log('inside myLocalScope', myVar);
+  }
+  myLocalScope();
+ 
+  console.log('outside myLocalScope', myVar);
