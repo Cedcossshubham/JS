@@ -221,3 +221,8 @@ console.log(myArray);
 //nested array
 const myArray1 = [["one","two"]];
 console.log(myArray1);
+
+
+//first value of an array
+let myData = myArray[0];
+console.log(myData);
