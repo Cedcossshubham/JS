@@ -84,3 +84,7 @@ console.log(myVar);
 //declare a decimal variable
 const myDecimal = 5.7;
 console.log(myDecimal);
+
+//decimal multiply
+const product = 2.0 * 2.5;
+console.log(product);
