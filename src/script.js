@@ -13,3 +13,7 @@ var b;
 a = 7;
 // assign value of var a to b
 b =a;
+
+//define a string var
+var myFirstName ="John";
+var myLastName = "Doe";
