@@ -183,3 +183,8 @@ console.log(lastNameLength);
 let firstLetterOfLastName = "";
 firstLetterOfLastName = lastName[0];
 console.log(firstLetterOfLastName);
+
+//change the string value
+let myStr7 = "Jello World";
+myStr7 = "Hello World"; 
+console.log(myStr7);
