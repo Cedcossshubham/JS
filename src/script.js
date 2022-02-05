@@ -168,7 +168,12 @@ console.log(myStr5);
 //use of add equal operator
 const someAdjective = "Awesome";
 let myStr6 = "Learning to code is ";
-
 myStr6 += someAdjective;
-
 console.log(myStr6);
+
+//use length string function
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+lastNameLength = lastName.length;
+console.log(lastNameLength);
