@@ -210,3 +210,9 @@ const myAdverb = "quickly";
 const wordBlanks = myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb; // Change this line
 
 console.log(wordBlanks);
+
+
+//String array
+const myArray = ["hello",5];
+
+console.log(myArray);
