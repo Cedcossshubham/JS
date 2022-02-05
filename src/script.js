@@ -145,3 +145,7 @@ console.log(myStr);
 //Quoting Strings with Single Quotes
 const myStr1 = '<a href="http://www.example.com" target="_blank">Link</a>';
 console.log(myStr1);
+
+//Escape Sequences in Strings
+const myStr2 = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+console.log(myStr2);
