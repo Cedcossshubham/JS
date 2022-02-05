@@ -348,3 +348,22 @@ function myOutfit() {
 }
 
 console.log(myOutfit());
+
+
+
+//Understanding Undefined Value returned from a Function
+let sum1 = 0;
+
+function addThree() {
+  sum1 = sum1 + 3;
+  console.log(sum1);
+}
+
+function addFive(){
+  sum1 = sum1 + 5;
+  console.log(sum1);
+}
+
+
+addFive(3);
+addThree(5);
