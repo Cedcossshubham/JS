@@ -98,3 +98,11 @@ console.log(quotient);
 const remainder = 11 % 3;
 console.log(remainder);
 
+//assignment operator
+a += 12;
+b += 9 ;
+c += 7;
+
+console.log(a);
+console.log(b);
+console.log(c);
