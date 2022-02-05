@@ -62,3 +62,8 @@ console.log(sum);
 //subtract two number
 const difference = 45 - 33;
 console.log(difference);
+
+
+//multiply two number
+const product = 8 * 10;
+console.log(product);
