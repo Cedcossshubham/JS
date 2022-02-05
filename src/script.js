@@ -200,3 +200,13 @@ console.log(lastLetterOfLastName1);
 //second last letter of string
 const secondToLastLetterOfLastName = lastName[lastName.length - 2];
 console.log(secondToLastLetterOfLastName);
+
+
+//use Madlib
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+const wordBlanks = myAdjective+" "+myNoun+" "+myVerb+" "+myAdverb; // Change this line
+
+console.log(wordBlanks);
