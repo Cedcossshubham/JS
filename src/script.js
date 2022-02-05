@@ -71,3 +71,8 @@ console.log(product);
 //divide two numbers
 const quotient = 66 / 33;
 console.log(quotient);
+
+//use of increment operator
+let myVar = 87;
+myVar++;
+console.log(myVar);
